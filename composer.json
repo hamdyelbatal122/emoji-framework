@@ -1,12 +1,12 @@
 {
     "name": "laravel/framework",
-    "description": "Laravel Framework (Updated for Security)",
+    "description": "Laravel Framework (Secured)",
     "require": {
         "php": ">=7.4",
         "illuminate/container": "^4.2",
-        "symfony/http-foundation": "^4.4.50",
-        "symfony/http-kernel": "^4.4.50",
-        "symfony/routing": "^4.4.50"
+        "symfony/http-foundation": "5.4.50",
+        "symfony/http-kernel": "5.4.50",
+        "symfony/routing": "5.4.50"
     },
     "license": "MIT",
     "authors": [
