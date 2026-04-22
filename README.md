@@ -1,13 +1,11 @@
-# Larvel™
-
-The little emoji framework 👌
+ emoji framework 👌
 
 > Currently [best viewed in Safari](http://caniemoji.com/).
 
 ## Install:
 
 ```shell
-composer require larvel/framework:dev-master
+composer require laravel/framework:dev-master
 ```
 
 ## Use:
