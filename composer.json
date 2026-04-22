@@ -1,23 +1,24 @@
 {
-    "name": "larvel/framework",
-    "description": "Larvel™ Framework",
+    "name": "laravel/framework",
+    "description": "Laravel Framework (Updated for Security)",
     "require": {
-        "illuminate/container": "~4.2@dev",
-        "symfony/http-foundation": "~2.5",
-        "symfony/http-kernel": "~2.5",
-        "symfony/routing": "~2.5"
+        "php": ">=7.4",
+        "illuminate/container": "^4.2",
+        "symfony/http-foundation": "^4.4.50",
+        "symfony/http-kernel": "^4.4.50",
+        "symfony/routing": "^4.4.50"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "fideloper",
-            "email": "fideloper@gmail.com"
+            "name": "",
+            "email": ""
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Larvel™\\": "src/Larvel™/"
-         }
+            "Laravel\\": "src/Laravel/"
+        }
     }
 }
